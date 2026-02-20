@@ -1,54 +1,68 @@
 <h1 align="center">Hi 👋, I'm Suhani Shinde</h1>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Java+Developer;DSA+Learner;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Creative+Web+Experiences;Always+Learning+New+Technologies;Open+Source+Contributor" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-- 🎓 2nd Year Computer Engineering Student
-- 💻 Currently mastering **Java & Data Structures**
-- 🌱 Building a **Food Donation Platform**
-- 🎯 Target: Strong Internship in 3rd Year
-- 📚 Focused on DSA + Development
-- 🔥 Consistency > Motivation
+- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🌱 I’m learning **Advanced Backend & Cloud Technologies**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
+- ⚡ Fun fact: I turn coffee ☕ into clean code 💻✨
 
 ---
 
 ## 🚀 Tech Stack
 
+### 💻 Frontend
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### 🛠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanishinde551&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanishinde551&theme=tokyonight" />
 </p>
+
+---
+
+## 🏆 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishinde551&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suhanishinde551&theme=tokyonight" />
-</p>
-
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanishinde551&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanishinde551&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -60,34 +74,19 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌐 Connect With Me
 
-- 🍲 Food Donation Website – Full Stack Platform
-- 📘 Java + DSA Practice Repository
-- 📊 SQL Database Mini Projects
-- 💡 Future: Spring Boot Backend
-
----
-
-## 💼 Professional Goals 2026
-
-- ✅ 300+ DSA Questions
-- ✅ 3 Strong Projects
-- ✅ Internship Offer
-- ✅ Clean GitHub Contribution Graph
-
----
-
-## 💬 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/suhanishinde551/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Suhani%20Shinde-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:suhanishinde551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-suhanishinde551@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanishinde551&label=Profile%20Views&color=ff69b4&style=flat" />
+  ✨ Code. Create. Conquer. ✨
 </p>

@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suhani</h1>
+<h3 align="center">Computer Engineering Student | Future Software Engineer 🚀</h3>
 
-<!--
-**suhanishinde551/suhanishinde551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌸 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 2nd Year Computer Engineering Student
+- 💻 Currently learning Java & DSA
+- 🌱 Building a Food Donation Website
+- 🎯 Goal: Strong Internship in 3rd Year & Top Placement
+- 📍 India
+
+---
+
+### 🚀 Tech Stack
+
+- Java
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhanishinde551&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanishinde551&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=suhanishinde551&theme=tokyonight)
+
+---
+
+### 💼 Projects
+
+- 🍲 Food Donation Website
+- 📘 Java Practice Programs
+- 📊 SQL Mini Projects
+
+---
+
+> "Consistency beats motivation every time." 🚀

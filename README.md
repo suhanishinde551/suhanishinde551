@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suhani Shinde</h1>
+<h1 align="center">Hello 👋, I'm Suhani Shinde</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Creative+Web+Experiences;Always+Learning+New+Technologies;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Creative+Web+Experiences;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on **Still exploring Full Stack Web Projects**
 - 🌱 I’m learning **Backend & Cloud Technologies**
-- 👯 I’m looking to collaborate on **Ready to learn new skills**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
 - ⚡ Fun fact: I turn coffee ☕ into clean code 💻✨
 

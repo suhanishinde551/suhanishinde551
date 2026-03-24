@@ -9,9 +9,9 @@
 
 ## 🌸 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Projects**
-- 🌱 I’m learning **Advanced Backend & Cloud Technologies**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I’m currently working on **Still exploring Full Stack Web Projects**
+- 🌱 I’m learning **Backend & Cloud Technologies**
+- 👯 I’m looking to collaborate on **Ready to learn new skills**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
 - ⚡ Fun fact: I turn coffee ☕ into clean code 💻✨
 
@@ -26,7 +26,7 @@
 
 ### 🛠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
 </p>
 
 ### 🗄 Database
@@ -36,7 +36,7 @@
 
 ### ⚙ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
